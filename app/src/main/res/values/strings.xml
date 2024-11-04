@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Android App</string>
+    <string name="title">Simple Memes App</string>
+    <string name="button_text">Next</string>
+
+
+</resources>
