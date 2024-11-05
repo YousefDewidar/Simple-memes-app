@@ -16,4 +16,4 @@
 - **Android Studio**: IDE for Android development.
 - **Kotlin**: Programming language for the app (specify the one you used).
 - **XML**: For designing the layout.
-- **Android SDK**: For accessing Android features.
+
